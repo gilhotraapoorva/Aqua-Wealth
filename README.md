@@ -139,7 +139,7 @@ AquaWealth serves as a project investment and financial support platform specifi
    ```
 3. Open your web browser and go to:
    ```
-   http://localhost:3000
+   http://localhost:8000
    ```
 4. Log in or create an account to access the features.
 5. Navigate through the platform to explore Insurance, Loans, Investments, and Water Credits.
