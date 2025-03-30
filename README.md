@@ -105,3 +105,41 @@ AquaWealth serves as a project investment and financial support platform specifi
   - `Credits Earned = (Efficiency Score - 100) × 0.1`  
   - Expiry Date = `Today + 180 Days`  
 - System Saves Credit Record & Updates User Balance  
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/aquawealth.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd aquawealth
+   ```
+3. Install backend dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   ```
+5. Install frontend dependencies:
+   ```bash
+   npm install
+   ```
+
+## How to Run the Project
+1. Start the backend server:
+   ```bash
+   python app.py
+   ```
+2. Start the Next.js frontend:
+   ```bash
+   cd frontend
+   npm run dev
+   ```
+3. Open your web browser and go to:
+   ```
+   http://localhost:3000
+   ```
+4. Log in or create an account to access the features.
+5. Navigate through the platform to explore Insurance, Loans, Investments, and Water Credits.
