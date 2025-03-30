@@ -134,7 +134,7 @@ AquaWealth serves as a project investment and financial support platform specifi
    ```
 2. Start the Next.js frontend:
    ```bash
-   cd frontend
+   cd frontend-aqua-main\frontend-aqua-main
    npm run dev
    ```
 3. Open your web browser and go to:
