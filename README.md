@@ -143,3 +143,69 @@ AquaWealth serves as a project investment and financial support platform specifi
    ```
 4. Log in or create an account to access the features.
 5. Navigate through the platform to explore Insurance, Loans, Investments, and Water Credits.
+## Project Directory Structure
+src/
+└── main/
+    └── java/
+        └── com/
+            └── aquawealth/
+                ├── config/
+                │   └── CorsConfig
+                ├── controller/
+                │   ├── HomeController
+                │   ├── InsuranceClaimController
+                │   ├── InsurancePolicyController
+                │   ├── InvestmentController
+                │   ├── LoanController
+                │   ├── LoanPaymentController
+                │   ├── ProjectController
+                │   ├── UserController
+                │   ├── WaterCreditController
+                │   ├── WaterMeterController
+                │   ├── WaterUsageController
+                │   └── WeatherController
+                ├── model/
+                │   ├── ClaimRequest
+                │   ├── ClaimStatus
+                │   ├── CoverageType
+                │   ├── InsuranceClaim
+                │   ├── InsurancePolicy
+                │   ├── Investment
+                │   ├── Loan
+                │   ├── LoanPayment
+                │   ├── PolicyStatus
+                │   ├── Project
+                │   ├── User
+                │   ├── WaterCredit
+                │   ├── WaterMeter
+                │   ├── WaterUsage
+                │   ├── WeatherCondition
+                │   └── WeatherRecord
+                ├── repository/
+                │   ├── InsuranceClaimRepository
+                │   ├── InsurancePolicyRepository
+                │   ├── InvestmentRepository
+                │   ├── LoanPaymentRepository
+                │   ├── LoanRepository
+                │   ├── ProjectRepository
+                │   ├── UserRepository
+                │   ├── WaterCreditRepository
+                │   ├── WaterMeterRepository
+                │   ├── WaterUsageRepository
+                │   ├── WeatherConditionRepository
+                │   └── WeatherRecordRepository
+                ├── service/
+                │   ├── InsuranceClaimService
+                │   ├── InsurancePolicyService
+                │   ├── InvestmentService
+                │   ├── LoanPaymentService
+                │   ├── LoanService
+                │   ├── ProjectService
+                │   ├── UserService
+                │   ├── WaterCreditService
+                │   ├── WaterMeterService
+                │   ├── WaterUsageService
+                │   └── WeatherService
+                ├── util/
+                │   └── WeatherAPIUtil
+                └── AquawealthApplication
