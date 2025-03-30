@@ -130,7 +130,7 @@ AquaWealth serves as a project investment and financial support platform specifi
 ## How to Run the Project
 1. Start the backend server:
    ```bash
-   python app.py
+   mvn clean install && mvn spring-boot:run
    ```
 2. Start the Next.js frontend:
    ```bash
