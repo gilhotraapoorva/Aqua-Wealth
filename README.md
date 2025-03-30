@@ -105,6 +105,14 @@ AquaWealth serves as a project investment and financial support platform specifi
   - `Credits Earned = (Efficiency Score - 100) × 0.1`  
   - Expiry Date = `Today + 180 Days`  
 - System Saves Credit Record & Updates User Balance  
+## Database Setup
+1. Install PostgreSQL and create a new database.
+2. Update the `application.properties` file with your PostgreSQL credentials:
+   ```properties
+   spring.datasource.url=jdbc:postgresql://localhost:5432/your_database_name
+   spring.datasource.username=your_username
+   spring.datasource.password=your_password
+   spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 ## Installation
 1. Clone the repository:
    ```bash
