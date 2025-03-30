@@ -1,4 +1,21 @@
 # Aqua-Wealth
+## Problem Statement
+
+In 2024, India faced extreme weather events on **255 out of 274 days**, causing severe agricultural losses:
+
+- **3.2 million hectares** of crops were damaged, impacting food production and farmer incomes.  
+- Over **50% of marginal farmers** lost at least half of their standing crops due to unpredictable weather.  
+- **Sugar production** fell below consumption levels for the first time in eight years, with output dropping to **27 million metric tons** against a demand of **29 million tons**, driven by droughts and excessive rainfall in Maharashtra, Karnataka, and Uttar Pradesh.  
+- **Cotton production** declined by **7.4%**, increasing imports to **2.5 million bales**, while exports dropped to **1.8 million bales**.  
+- **Rapeseed and mustard cultivation** decreased by **10%**, as farmers shifted to wheat and potatoes due to soaring temperatures, heightening India’s dependency on imported vegetable oils.  
+
+These **climate-induced disruptions** threaten farmers’ livelihoods, food security, and economic stability. Despite government support schemes, **insurance payouts and loan approvals remain delayed**, forcing farmers to travel repeatedly from villages to cities, increasing financial strain.  
+
+While platforms like **Groww** enable investments in stocks, **no structured digital investment ecosystem exists** for sustainability-driven agricultural projects, leaving both **farmers and investors disconnected**.  
+
+### The Result?  
+Farmers remain **financially vulnerable**, sustainability projects **lack funding**, and **India’s agricultural future is at risk**.  
+
 ## Solution  
 
 AquaWealth serves as a project investment and financial support platform specifically designed for the agriculture sector. Unlike traditional investment platforms that focus on companies, AquaWealth enables individuals to invest in agricultural projects, helping farmers who face crop losses, land degradation, and financial constraints. The platform allows users to fund projects aimed at improving water management, sustainable farming, and disaster recovery. It also provides microloans to farmers in need, ensuring they receive financial aid for replanting and equipment restoration. By integrating insurance, loans, and crowdfunding, AquaWealth ensures farmers get timely financial support while investors contribute to sustainable agriculture. Additionally, real-time tracking of investment impact and project success enhances transparency and accountability.
