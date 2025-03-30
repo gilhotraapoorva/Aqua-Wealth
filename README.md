@@ -158,4 +158,66 @@ AquaWealth serves as a project investment and financial support platform specifi
 4. Log in or create an account to access the features.
 5. Navigate through the platform to explore Insurance, Loans, Investments, and Water Credits.
 ## Project Directory Structure
-<pre> ``` src/ └── main/ └── java/ └── com/ └── aquawealth/ ├── config/ │ └── CorsConfig.java ├── controller/ │ ├── HomeController.java │ ├── InsuranceClaimController.java │ ├── InsurancePolicyController.java │ ├── InvestmentController.java │ ├── LoanController.java │ ├── LoanPaymentController.java │ ├── ProjectController.java │ ├── UserController.java │ ├── WaterCreditController.java │ ├── WaterMeterController.java │ ├── WaterUsageController.java │ └── WeatherController.java ├── model/ │ ├── ClaimRequest.java │ ├── ClaimStatus.java │ ├── CoverageType.java │ ├── InsuranceClaim.java │ ├── InsurancePolicy.java │ ├── Investment.java │ ├── Loan.java │ ├── LoanPayment.java │ ├── PolicyStatus.java │ ├── Project.java │ ├── User.java │ ├── WaterCredit.java │ ├── WaterMeter.java │ ├── WaterUsage.java │ ├── WeatherCondition.java │ └── WeatherRecord.java ├── repository/ │ ├── InsuranceClaimRepository.java │ ├── InsurancePolicyRepository.java │ ├── InvestmentRepository.java │ ├── LoanPaymentRepository.java │ ├── LoanRepository.java │ ├── ProjectRepository.java │ ├── UserRepository.java │ ├── WaterCreditRepository.java │ ├── WaterMeterRepository.java │ ├── WaterUsageRepository.java │ ├── WeatherConditionRepository.java │ └── WeatherRecordRepository.java ├── service/ │ ├── InsuranceClaimService.java │ ├── InsurancePolicyService.java │ ├── InvestmentService.java │ ├── LoanPaymentService.java │ ├── LoanService.java │ ├── ProjectService.java │ ├── UserService.java │ ├── WaterCreditService.java │ ├── WaterMeterService.java │ ├── WaterUsageService.java │ └── WeatherService.java ├── util/ │ ├── LocationAPIUtil.java │ └── WeatherAPIUtil.java └── AquawealthApplication.java ``` </pre>
+src/
+└── main/
+    └── java/
+        └── com/
+            └── aquawealth/
+                ├── config/
+                │   └── CorsConfig.java
+                ├── controller/
+                │   ├── HomeController.java
+                │   ├── InsuranceClaimController.java
+                │   ├── InsurancePolicyController.java
+                │   ├── InvestmentController.java
+                │   ├── LoanController.java
+                │   ├── LoanPaymentController.java
+                │   ├── ProjectController.java
+                │   ├── WaterCreditController.java
+                │   ├── WaterMeterController.java
+                │   ├── WaterUsageController.java
+                │   └── WeatherController.java
+                ├── model/
+                │   ├── ClaimRequest.java
+                │   ├── ClaimStatus.java
+                │   ├── CoverageType.java
+                │   ├── InsuranceClaim.java
+                │   ├── InsurancePolicy.java
+                │   ├── Investment.java
+                │   ├── Loan.java
+                │   ├── LoanPayment.java
+                │   ├── PolicyStatus.java
+                │   ├── Project.java
+                │   ├── WaterCredit.java
+                │   ├── WaterMeter.java
+                │   ├── WaterUsage.java
+                │   ├── WeatherCondition.java
+                │   └── WeatherRecord.java
+                ├── repository/
+                │   ├── InsuranceClaimRepository.java
+                │   ├── InsurancePolicyRepository.java
+                │   ├── InvestmentRepository.java
+                │   ├── LoanPaymentRepository.java
+                │   ├── LoanRepository.java
+                │   ├── ProjectRepository.java
+                │   ├── WaterCreditRepository.java
+                │   ├── WaterMeterRepository.java
+                │   ├── WaterUsageRepository.java
+                │   ├── WeatherConditionRepository.java
+                │   └── WeatherRecordRepository.java
+                ├── service/
+                │   ├── InsuranceClaimService.java
+                │   ├── InsurancePolicyService.java
+                │   ├── InvestmentService.java
+                │   ├── LoanPaymentService.java
+                │   ├── LoanService.java
+                │   ├── ProjectService.java
+                │   ├── WaterCreditService.java
+                │   ├── WaterMeterService.java
+                │   ├── WaterUsageService.java
+                │   └── WeatherService.java
+                ├── util/
+                │   ├── LocationAPIUtil.java
+                │   └── WeatherAPIUtil.java
+                └── AquawealthApplication.java
+
