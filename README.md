@@ -105,6 +105,12 @@ AquaWealth serves as a project investment and financial support platform specifi
   - `Credits Earned = (Efficiency Score - 100) × 0.1`  
   - Expiry Date = `Today + 180 Days`  
 - System Saves Credit Record & Updates User Balance  
+## Prerequisites
+| Component       | Requirement           |
+|-----------------|-----------------------|
+| **Backend**     | Java 17+, Maven 3.8+  |
+| **Database**    | PostgreSQL 14+        |
+| **Frontend**    | Node.js 18+, npm 9+   |
 ## Database Setup
 1. Install PostgreSQL and create a new database.
 2. Update the `application.properties` file with your PostgreSQL credentials:
