@@ -2,6 +2,14 @@
 ## Solution  
 
 AquaWealth serves as a project investment and financial support platform specifically designed for the agriculture sector. Unlike traditional investment platforms that focus on companies, AquaWealth enables individuals to invest in agricultural projects, helping farmers who face crop losses, land degradation, and financial constraints. The platform allows users to fund projects aimed at improving water management, sustainable farming, and disaster recovery. It also provides microloans to farmers in need, ensuring they receive financial aid for replanting and equipment restoration. By integrating insurance, loans, and crowdfunding, AquaWealth ensures farmers get timely financial support while investors contribute to sustainable agriculture. Additionally, real-time tracking of investment impact and project success enhances transparency and accountability.
+### Key Features
+
+- **Insurance Policy** – Enables farmers to apply for insurance with automated premium calculation.
+- **Insurance Claim** – Verifies claim eligibility based on policy details and weather conditions.
+- **MicroLoans** – Offers flexible borrowing with interest rates based on collateral selection.
+- **Projects and Investments** – Allows users to invest in water-related agricultural projects.
+- **Water Credits** – Rewards users for conserving water and managing usage efficiently.
+
 
 ## Process Flows of all features
 
