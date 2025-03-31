@@ -126,6 +126,10 @@ src/
   - If previous claims exist, total claims must not exceed coverage amount  
 - User Receives Confirmation (Approved/Rejected)  
 
+
+https://github.com/user-attachments/assets/2321a587-5528-4a50-bb27-f2aacf3aa34b
+
+
 ### 3. MicroLoans  
 - User Logs In  
 - User Navigates to Loan Application  
@@ -141,6 +145,10 @@ src/
 - Loan Submission  
 - Loan ID is Generated  
 - Total Interest & Amount is Displayed  
+
+
+https://github.com/user-attachments/assets/0fd4afae-5eb3-41a3-97a7-713f6f7970bf
+
 
 ### 4. Projects and Investments  
 - User Logs In  
@@ -158,6 +166,10 @@ src/
 - System Saves Investment Record in Database  
 - Confirmation is Displayed ("Investment Successful!")  
 
+
+https://github.com/user-attachments/assets/2d39f9bc-02b8-4a19-9f14-939be06c9ba7
+
+
 ### 5. Water Credits  
 - User Logs In  
 - User Adds Water Meter (Meter Number & Details)  
@@ -170,7 +182,13 @@ src/
 - System Awards Credits (If Score > 100%):  
   - `Credits Earned = (Efficiency Score - 100) × 0.1`  
   - Expiry Date = `Today + 180 Days`  
-- System Saves Credit Record & Updates User Balance  
+- System Saves Credit Record & Updates User Balance
+
+
+https://github.com/user-attachments/assets/b56c8efc-d7f6-41cb-a89c-b3e026db7c55
+
+
+  
 ## Prerequisites
 | Component       | Requirement           |
 |-----------------|-----------------------|
