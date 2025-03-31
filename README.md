@@ -26,6 +26,10 @@ AquaWealth serves as a project investment and financial support platform specifi
 - **MicroLoans** – Offers flexible borrowing with interest rates based on collateral selection.
 - **Projects and Investments** – Allows users to invest in water-related agricultural projects.
 - **Water Credits** – Rewards users for conserving water and managing usage efficiently.
+## Branch Information
+
+- **Frontend:** Available in the `frontend` branch.
+- **Backend:** Available in the `backend` branch.
 
 ## Backend Structure
 The backend follows a modular structure, organizing components into separate packages for maintainability:
